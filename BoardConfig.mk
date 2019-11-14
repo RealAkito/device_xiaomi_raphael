@@ -54,7 +54,7 @@ TARGET_KERNEL_SOURCE := kernel/xiaomi/raphael
 
 # Platform
 BOARD_USES_QCOM_HARDWARE := true
-TARGET_BOARD_PLATFORM := msmnile
+TARGET_BOARD_PLATFORM := sm8150
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno640
 
 # Audio
